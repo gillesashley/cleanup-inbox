@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+token.pickle
+run_on_internet_connect.bat
+client_secret_785515207647-5urus64tfih8cqpk8sa12l6jb3vai0vb.apps.googleusercontent.com.json
