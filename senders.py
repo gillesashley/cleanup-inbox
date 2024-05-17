@@ -27,4 +27,10 @@ senders = [
     "sakshi.raheja@newsletters.analyticsvidhya.com",
     "no-reply@n.dribbble.com",
     "hello@woo.com",
+    "donotreply@jiji.com.gh",
+    "datasciencemustneededskills-space@quora.com",
+    "info@bookmap.com",
+    "noreply@mql5.com" "team@news-mail.elementor.com",
+    "followsamsung@samsung.com",
+    "linkedin@e.linkedin.com",
 ]
